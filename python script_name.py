@@ -1,0 +1,7 @@
+echo "# python-practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/uchakravarthi2754/python-practice.git
+git push -u origin main
